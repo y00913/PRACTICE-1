@@ -10,6 +10,7 @@ int main()
 	kor = 90;
 	sum = 80 + 100 + 90;
 
+	printf("Commit test");
 	printf("This program print report card.\n");
 
 	printf("Korean : %d\n", kor);
